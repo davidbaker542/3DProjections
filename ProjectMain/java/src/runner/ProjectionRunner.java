@@ -14,6 +14,7 @@ public class ProjectionRunner {
 	// --- Typically you will never need to edit any of the code below this ---
 	// ==============================================================================
 
+
 	private JFrame myFrame;
 
 	public ProjectionRunner() {
